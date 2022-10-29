@@ -1,11 +1,22 @@
 # Instagram Session ID-Grabber
-gives you your session id for instagram
-# Requirements
- -pip install requests
- 
- -pip install stdiomask
- # installation
- 
- `git clone https://github.com/KEAGTORB/insta-session-id-grabber`
- python grab.py
- 
+Grab Instagram session id with web and mobile api 
+
+1. You need to clone this repository
+```
+git clone https://github.com/keagtorb/jubilantbassoon
+```
+
+2. After you clone the repo you will have to navigate to the folder
+```
+cd jubilantbassoon
+```
+
+3. Then you will have to install requirments
+```
+pip install -r requirments.txt 
+```
+
+4. Finally you need to run it
+```
+python grab.py
+```
